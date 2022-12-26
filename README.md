@@ -1,7 +1,7 @@
 # Makefile for create (conda) environments
 
-![Build Status](https://travis-ci.org/SymbiFlow/make-env.svg?branch=master)
-![License](https://img.shields.io/github/license/SymbiFlow/make-env.svg)
+[![Build Status](https://github.com/SymbiFlow/make-env/actions/workflows/test.yml/badge.svg)](https://github.com/SymbiFlow/make-env/actions/workflows/test.yml)
+[![ISC License Check](https://github.com/SymbiFlow/make-env/actions/workflows/licensing.yml/badge.svg)](https://github.com/SymbiFlow/make-env/actions/workflows/licensing.yml)
 
 This repository contains a Makefile to make it easy to set up a conda
 environment and then run commands inside the environment.
